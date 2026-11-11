@@ -36,7 +36,7 @@ It provides an end-to-end pipeline for processing long-form video content while 
 
 ### 2. Long-Form Transcript Processing
 
-- Implemented text chunking to divide lengthy transcripts into manageable segments.
+- Implemented the text chunking to divide lengthy transcripts into manageable segments.
 - Processed transcript chunks within the context window of a locally run, quantized (GGUF) LLaMA 2 model.
 - Enabled the processing and summarization of long-form video inputs.
 
